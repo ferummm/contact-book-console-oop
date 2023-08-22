@@ -1,0 +1,805 @@
+{
+    "source": "phone_book.json",
+    "contacts": {
+        "ae3bad73-acb2-404b-bfe6-a7ef6a9183b7": {
+            "first_name": "Tammy",
+            "last_name": "Alexander",
+            "patronymic": "",
+            "company": "Davis PLC",
+            "work": "101153",
+            "mobile": "+00597972121"
+        },
+        "98faa1ea-c1d2-48bf-b458-4fa4c875297d": {
+            "first_name": "Megan",
+            "last_name": "Gordon",
+            "patronymic": "",
+            "company": "Brown PLC",
+            "work": "71918904814",
+            "mobile": "+75433780810"
+        },
+        "3fc3f5e4-6929-4087-b297-363548d2e635": {
+            "first_name": "Matthew",
+            "last_name": "Mckinney",
+            "patronymic": "",
+            "company": "Bennett, Brown and Matthews",
+            "work": "21832051824",
+            "mobile": "+70640242427"
+        },
+        "8da7923e-bdd4-4735-9572-ade971fd0800": {
+            "first_name": "Blake",
+            "last_name": "Hughes",
+            "patronymic": "",
+            "company": "Simpson-Aguilar",
+            "work": "77079278744",
+            "mobile": "12661817643"
+        },
+        "27943524-a005-4030-9ab7-0076687efd7b": {
+            "first_name": "Michael",
+            "last_name": "Park",
+            "patronymic": "",
+            "company": "Carpenter LLC",
+            "work": "25711630403",
+            "mobile": "+81547194163"
+        },
+        "d58732c6-3e02-4cd8-b274-c9338985524a": {
+            "first_name": "Craig",
+            "last_name": "Lee",
+            "patronymic": "",
+            "company": "Mason-Cardenas",
+            "work": "53862934058",
+            "mobile": "+27875220922"
+        },
+        "ed5af038-ec0f-4f57-b637-12b94c78c2fa": {
+            "first_name": "Megan",
+            "last_name": "Jones",
+            "patronymic": "",
+            "company": "Jackson-Barnett",
+            "work": "701230",
+            "mobile": "65364846592"
+        },
+        "58c0ce1c-202c-4fea-beaa-f4643fc82ef3": {
+            "first_name": "Mary",
+            "last_name": "Davis",
+            "patronymic": "",
+            "company": "Ramirez-Ross",
+            "work": "594816",
+            "mobile": "+34960573726"
+        },
+        "6b2538d5-26eb-491b-9594-c2606dee79f1": {
+            "first_name": "Kyle",
+            "last_name": "Jones",
+            "patronymic": "",
+            "company": "Evans-Wilkinson",
+            "work": "72672495953",
+            "mobile": "+28977071057"
+        },
+        "73b5ccd3-6b0f-41f8-9b16-060f975a1481": {
+            "first_name": "Cameron",
+            "last_name": "Taylor",
+            "patronymic": "",
+            "company": "Rivera, Bailey and Mullins",
+            "work": "44959493841",
+            "mobile": "+89358557418"
+        },
+        "6717a1a8-4b19-47aa-91d1-969de8e93f3d": {
+            "first_name": "Bridget",
+            "last_name": "Kelley",
+            "patronymic": "",
+            "company": "Scott and Sons",
+            "work": "306003",
+            "mobile": "+58568144793"
+        },
+        "5bad1397-5ca8-4292-8e2f-1dc9ddd29ccf": {
+            "first_name": "Michael",
+            "last_name": "Miller",
+            "patronymic": "",
+            "company": "Vega LLC",
+            "work": "93277289912",
+            "mobile": "83288652898"
+        },
+        "c4a32c76-e445-420a-8ee7-4bf00b762532": {
+            "first_name": "Chelsey",
+            "last_name": "Richard",
+            "patronymic": "",
+            "company": "Watson LLC",
+            "work": "60991539358",
+            "mobile": "+69700714652"
+        },
+        "50b31423-05b8-429a-bf31-42ec1e740e2d": {
+            "first_name": "Todd",
+            "last_name": "Fischer",
+            "patronymic": "",
+            "company": "Steele Inc",
+            "work": "59562103399",
+            "mobile": "82824097595"
+        },
+        "6011b926-e7a0-4387-9b8d-5a56fd660081": {
+            "first_name": "Keith",
+            "last_name": "Russell",
+            "patronymic": "",
+            "company": "Young-Smith",
+            "work": "59418903899",
+            "mobile": "58254542720"
+        },
+        "7c5400d5-f849-4b93-b2c7-23c542b11978": {
+            "first_name": "Tammy",
+            "last_name": "Stephens",
+            "patronymic": "",
+            "company": "Allen-Wallace",
+            "work": "825968",
+            "mobile": "99778759186"
+        },
+        "418f062b-a009-48cd-906f-e5781ec5a359": {
+            "first_name": "Mary",
+            "last_name": "Martinez",
+            "patronymic": "",
+            "company": "Freeman-Payne",
+            "work": "724315",
+            "mobile": "+48568397757"
+        },
+        "927250c1-de50-47b5-acc6-0b516ad5b742": {
+            "first_name": "Samantha",
+            "last_name": "Rodriguez",
+            "patronymic": "",
+            "company": "Miller-Gonzalez",
+            "work": "95264340259",
+            "mobile": "10046554969"
+        },
+        "187c3f6a-3133-4c99-b013-5fb2e911a45a": {
+            "first_name": "Rachel",
+            "last_name": "Martin",
+            "patronymic": "",
+            "company": "Smith-Carlson",
+            "work": "45932397976",
+            "mobile": "+85846649753"
+        },
+        "a353b45f-b8e9-494d-9367-4782c9f7e451": {
+            "first_name": "Marissa",
+            "last_name": "Moore",
+            "patronymic": "",
+            "company": "Mckee and Sons",
+            "work": "03985836708",
+            "mobile": "61113676348"
+        },
+        "107793c7-b84e-46c7-a670-df32f74c66ac": {
+            "first_name": "Mark",
+            "last_name": "Roth",
+            "patronymic": "",
+            "company": "Hayes, Hopkins and Brown",
+            "work": "08222662824",
+            "mobile": "17859246745"
+        },
+        "623458f6-bf30-4f43-bb71-be8d3a122519": {
+            "first_name": "Gary",
+            "last_name": "Conner",
+            "patronymic": "",
+            "company": "Ramos Inc",
+            "work": "742842",
+            "mobile": "+33882359608"
+        },
+        "d789f389-eb26-472b-9f2f-003c10f8e847": {
+            "first_name": "Stephanie",
+            "last_name": "Khan",
+            "patronymic": "",
+            "company": "Walker, Tran and Smith",
+            "work": "57306676598",
+            "mobile": "+39997479004"
+        },
+        "0686cdf8-5f93-4295-8267-50881ee07809": {
+            "first_name": "Helen",
+            "last_name": "Martinez",
+            "patronymic": "",
+            "company": "Armstrong-Malone",
+            "work": "766306",
+            "mobile": "+16229152318"
+        },
+        "07f98b28-ca3e-4a64-921c-1f4146af3cde": {
+            "first_name": "Noah",
+            "last_name": "Martinez",
+            "patronymic": "",
+            "company": "Shaw, Reed and Brown",
+            "work": "48006704239",
+            "mobile": "+79043772426"
+        },
+        "900258f5-4587-412f-9ec6-bd4c8236f00f": {
+            "first_name": "Dawn",
+            "last_name": "Collins",
+            "patronymic": "",
+            "company": "Bartlett Ltd",
+            "work": "59320497062",
+            "mobile": "+65941196958"
+        },
+        "0aa5cf95-a154-4012-9345-b5f335efbcba": {
+            "first_name": "Jean",
+            "last_name": "Johnson",
+            "patronymic": "",
+            "company": "Bautista-Warren",
+            "work": "961885",
+            "mobile": "+83816158215"
+        },
+        "a7ba626b-e2ca-4dec-864d-50d202edef86": {
+            "first_name": "Suzanne",
+            "last_name": "Flowers",
+            "patronymic": "",
+            "company": "Baker-Berg",
+            "work": "11979050993",
+            "mobile": "17829048964"
+        },
+        "c2c298fe-68b8-43af-8e03-1cc76a0c4717": {
+            "first_name": "Belinda",
+            "last_name": "Oliver",
+            "patronymic": "",
+            "company": "Armstrong, Rogers and Daniels",
+            "work": "531831",
+            "mobile": "+01104895969"
+        },
+        "1da4bbe6-4b81-4ab9-94c1-d480234ff14c": {
+            "first_name": "Kim",
+            "last_name": "Myers",
+            "patronymic": "",
+            "company": "Robinson LLC",
+            "work": "155651",
+            "mobile": "22752104920"
+        },
+        "558bcf69-3b7a-4e57-88ff-82f5ef1326ce": {
+            "first_name": "Christine",
+            "last_name": "Castro",
+            "patronymic": "",
+            "company": "George-Gordon",
+            "work": "65065382993",
+            "mobile": "+62672687964"
+        },
+        "953ec847-1845-4073-8601-bbf4a850e401": {
+            "first_name": "Ashley",
+            "last_name": "Green",
+            "patronymic": "",
+            "company": "Anderson-Holder",
+            "work": "349434",
+            "mobile": "+29970465050"
+        },
+        "81ae8e67-9b90-42d7-a251-7b1ce475d6ac": {
+            "first_name": "William",
+            "last_name": "Gonzalez",
+            "patronymic": "",
+            "company": "Lopez-Bryan",
+            "work": "764586",
+            "mobile": "+47809954351"
+        },
+        "30aaa731-af30-403f-9b9b-71b75ce63c80": {
+            "first_name": "Richard",
+            "last_name": "Diaz",
+            "patronymic": "",
+            "company": "Phillips-Colon",
+            "work": "864492",
+            "mobile": "+95382069792"
+        },
+        "0b3f5810-238e-4b0d-bb0c-283b6de1d0b1": {
+            "first_name": "Joel",
+            "last_name": "Torres",
+            "patronymic": "",
+            "company": "Jenkins-Lynch",
+            "work": "643587",
+            "mobile": "12842674471"
+        },
+        "1d0ca6fc-1ede-4d24-90a6-068fa17f8dac": {
+            "first_name": "Frank",
+            "last_name": "Bryant",
+            "patronymic": "",
+            "company": "Golden-Vazquez",
+            "work": "300436",
+            "mobile": "69913245429"
+        },
+        "6981bff0-953a-4d11-8af0-4e67982a5594": {
+            "first_name": "Amanda",
+            "last_name": "Schroeder",
+            "patronymic": "",
+            "company": "Raymond PLC",
+            "work": "197612",
+            "mobile": "11221751801"
+        },
+        "8ffaefcc-67fe-4f58-819b-73ed39a4314d": {
+            "first_name": "Kimberly",
+            "last_name": "Harris",
+            "patronymic": "",
+            "company": "Gray-Austin",
+            "work": "64573150346",
+            "mobile": "85874422590"
+        },
+        "0e45fe11-4850-4097-9db2-3bab642d6fd3": {
+            "first_name": "Benjamin",
+            "last_name": "Cooper",
+            "patronymic": "",
+            "company": "Murphy, Ward and Wolf",
+            "work": "61468152647",
+            "mobile": "06060389819"
+        },
+        "00802289-fb72-46f2-b834-bd06bfee88c3": {
+            "first_name": "Bryan",
+            "last_name": "Watson",
+            "patronymic": "",
+            "company": "Humphrey, Williams and Brown",
+            "work": "209839",
+            "mobile": "64883441194"
+        },
+        "3a4fa360-2869-4598-82b5-d1a907b15a9f": {
+            "first_name": "Mason",
+            "last_name": "Heath",
+            "patronymic": "",
+            "company": "Alvarez-Little",
+            "work": "407685",
+            "mobile": "+33406807046"
+        },
+        "d0b47c02-5bbb-4d54-ab55-f6f0c1d7ca40": {
+            "first_name": "Jessica",
+            "last_name": "Cooke",
+            "patronymic": "",
+            "company": "Harrell, Carlson and Russell",
+            "work": "21739031403",
+            "mobile": "96680321518"
+        },
+        "f90c2c91-5a53-4060-b431-7592fc9c895c": {
+            "first_name": "Tiffany",
+            "last_name": "Miller",
+            "patronymic": "",
+            "company": "Zamora Inc",
+            "work": "636635",
+            "mobile": "+00686737978"
+        },
+        "00efbfb5-7654-4ed2-a047-81008cd0838a": {
+            "first_name": "Jennifer",
+            "last_name": "Hodge",
+            "patronymic": "",
+            "company": "Clements, Berry and Murphy",
+            "work": "94718475751",
+            "mobile": "22146478994"
+        },
+        "85541212-70ee-472e-be83-9caa99e38f1f": {
+            "first_name": "Joseph",
+            "last_name": "Grant",
+            "patronymic": "",
+            "company": "Copeland, Mendoza and Morris",
+            "work": "181803",
+            "mobile": "31166551439"
+        },
+        "9234dc0e-36f6-46d3-b59f-b1f0313e66e9": {
+            "first_name": "Mary",
+            "last_name": "Benitez",
+            "patronymic": "",
+            "company": "Gallagher Ltd",
+            "work": "55487087060",
+            "mobile": "31424869247"
+        },
+        "9a94074c-88ce-4714-8d03-d6b5d1f45330": {
+            "first_name": "Kayla",
+            "last_name": "Gordon",
+            "patronymic": "",
+            "company": "Carson LLC",
+            "work": "71791776441",
+            "mobile": "+63088842747"
+        },
+        "7efd60d7-6f8c-4788-8b37-630c83dd8ccb": {
+            "first_name": "Hannah",
+            "last_name": "Schmidt",
+            "patronymic": "",
+            "company": "Dudley-Wright",
+            "work": "288161",
+            "mobile": "+30964362332"
+        },
+        "8cf7ce52-8f3e-4f7a-8554-de55d768b14f": {
+            "first_name": "John",
+            "last_name": "Martinez",
+            "patronymic": "",
+            "company": "Juarez LLC",
+            "work": "583209",
+            "mobile": "65732286725"
+        },
+        "4f55d99b-56a0-4570-b36d-21aae4ab778f": {
+            "first_name": "Gary",
+            "last_name": "Snyder",
+            "patronymic": "",
+            "company": "Rivera-Thompson",
+            "work": "31485743986",
+            "mobile": "+15666335422"
+        },
+        "a2e34e96-2692-4eb3-adac-4861639d5280": {
+            "first_name": "Brandi",
+            "last_name": "Graham",
+            "patronymic": "",
+            "company": "Villarreal-Bryant",
+            "work": "263661",
+            "mobile": "+54900101743"
+        },
+        "80298f60-d0ff-4e71-8ba4-cbacb0d6a804": {
+            "first_name": "Jonathan",
+            "last_name": "Davis",
+            "patronymic": "",
+            "company": "Jones, Potter and Molina",
+            "work": "90542779167",
+            "mobile": "17278258803"
+        },
+        "d5ec33a7-5653-4497-b20e-9939742badf4": {
+            "first_name": "Olivia",
+            "last_name": "Neal",
+            "patronymic": "",
+            "company": "Mendez Inc",
+            "work": "25520302314",
+            "mobile": "+56514456210"
+        },
+        "64bfd4e1-870b-4699-a1ea-bd6142e51e86": {
+            "first_name": "John",
+            "last_name": "Wright",
+            "patronymic": "",
+            "company": "Lynch Inc",
+            "work": "67859596906",
+            "mobile": "45992185971"
+        },
+        "05b2611c-a590-4514-8652-c4636cdb5ab8": {
+            "first_name": "Stephanie",
+            "last_name": "Barajas",
+            "patronymic": "",
+            "company": "Dillon, Simmons and House",
+            "work": "783183",
+            "mobile": "79441465147"
+        },
+        "be796252-4fac-4ae7-8846-de8ddde82e7f": {
+            "first_name": "Nathan",
+            "last_name": "Torres",
+            "patronymic": "",
+            "company": "Davis, Cummings and Mendez",
+            "work": "99572398065",
+            "mobile": "50594737007"
+        },
+        "be4a53f6-ceab-4bd8-a5ca-8e209d817183": {
+            "first_name": "Dale",
+            "last_name": "House",
+            "patronymic": "",
+            "company": "Martinez-Clark",
+            "work": "58630849458",
+            "mobile": "67532604748"
+        },
+        "4b20e839-5921-42d3-a8d2-386dd4825841": {
+            "first_name": "Kyle",
+            "last_name": "Silva",
+            "patronymic": "",
+            "company": "Tapia, Pearson and Weaver",
+            "work": "58624982120",
+            "mobile": "+15598801497"
+        },
+        "bc1ad56c-5a67-4ea9-b81b-4fe1235a73b4": {
+            "first_name": "Amy",
+            "last_name": "Rivera",
+            "patronymic": "",
+            "company": "Coleman-Mccormick",
+            "work": "702668",
+            "mobile": "+49581620460"
+        },
+        "c7a31f64-95b2-4d3d-918c-bcd734de3791": {
+            "first_name": "Meghan",
+            "last_name": "Lyons",
+            "patronymic": "",
+            "company": "Bowen, Heath and Jones",
+            "work": "142742",
+            "mobile": "+66005504531"
+        },
+        "210d283e-55b8-4e8d-9a0e-c6a5ba555ccd": {
+            "first_name": "Raymond",
+            "last_name": "Mason",
+            "patronymic": "",
+            "company": "Larson Ltd",
+            "work": "136974",
+            "mobile": "+77920617214"
+        },
+        "588b53c9-f977-4a23-a0f8-3367ac3b1800": {
+            "first_name": "Jeffrey",
+            "last_name": "Sanders",
+            "patronymic": "",
+            "company": "Rich, Kim and Johnson",
+            "work": "983235",
+            "mobile": "+45538988240"
+        },
+        "e32b6eb6-5f67-4f1e-8b47-6807dfe17d27": {
+            "first_name": "Ashley",
+            "last_name": "Murphy",
+            "patronymic": "",
+            "company": "Armstrong-Ibarra",
+            "work": "10053200675",
+            "mobile": "52727458574"
+        },
+        "bd174936-21e5-476c-be65-915f58345268": {
+            "first_name": "David",
+            "last_name": "Ford",
+            "patronymic": "",
+            "company": "Baird-Robinson",
+            "work": "87404849376",
+            "mobile": "44880982901"
+        },
+        "b95f5241-8819-4306-8894-e31cc4d8acc8": {
+            "first_name": "Daniel",
+            "last_name": "Stewart",
+            "patronymic": "",
+            "company": "Williams, Reyes and Maxwell",
+            "work": "54743896807",
+            "mobile": "58881265218"
+        },
+        "86f578b5-89db-4ea9-8e1d-6a6d962fde5e": {
+            "first_name": "Elizabeth",
+            "last_name": "Jones",
+            "patronymic": "",
+            "company": "Dunn, Lowe and Reed",
+            "work": "528304",
+            "mobile": "32228180763"
+        },
+        "bdd8dd68-b739-43c7-841f-1c062ba13156": {
+            "first_name": "Lisa",
+            "last_name": "Mooney",
+            "patronymic": "",
+            "company": "Gutierrez-Stone",
+            "work": "58548256048",
+            "mobile": "+81808263462"
+        },
+        "9bd60d31-17a7-431c-b75f-c45b05b4bfb6": {
+            "first_name": "Cheyenne",
+            "last_name": "Rodriguez",
+            "patronymic": "",
+            "company": "Odom, Crawford and Fisher",
+            "work": "49921288465",
+            "mobile": "+83601017664"
+        },
+        "1739242e-5ded-4294-bc93-565feb633470": {
+            "first_name": "Robert",
+            "last_name": "Adams",
+            "patronymic": "",
+            "company": "Phillips, Martin and Collins",
+            "work": "38839511947",
+            "mobile": "+56460544220"
+        },
+        "e25a2670-57cf-4776-b825-e30b5a1b30ab": {
+            "first_name": "Jasmine",
+            "last_name": "Williams",
+            "patronymic": "",
+            "company": "Johnson, Hebert and Cooper",
+            "work": "224551",
+            "mobile": "+09754699939"
+        },
+        "2c604e44-7832-4a4a-a2cc-8388f46df508": {
+            "first_name": "Emily",
+            "last_name": "Key",
+            "patronymic": "",
+            "company": "Mason Group",
+            "work": "40898315638",
+            "mobile": "+67701115849"
+        },
+        "73527f87-4af6-40d9-a274-8a6038b0a92b": {
+            "first_name": "Rebecca",
+            "last_name": "Conley",
+            "patronymic": "",
+            "company": "Oconnor-Jones",
+            "work": "41425805100",
+            "mobile": "+78840017532"
+        },
+        "da8f12af-68fa-423f-bd13-12aa5fdc88b0": {
+            "first_name": "Sheila",
+            "last_name": "Edwards",
+            "patronymic": "",
+            "company": "Williams Group",
+            "work": "18314424007",
+            "mobile": "+12317077653"
+        },
+        "78dea052-636b-4e5f-a852-b385088c8068": {
+            "first_name": "Ashley",
+            "last_name": "Lucas",
+            "patronymic": "",
+            "company": "Keller PLC",
+            "work": "712457",
+            "mobile": "84461249949"
+        },
+        "27dc3f4d-a6cd-4d19-8ad0-f992049d107b": {
+            "first_name": "Sheena",
+            "last_name": "Lee",
+            "patronymic": "",
+            "company": "Wright, Gamble and Clark",
+            "work": "685532",
+            "mobile": "+43834919970"
+        },
+        "14622d69-45cb-496e-98c1-7e4800929fff": {
+            "first_name": "Charles",
+            "last_name": "Bautista",
+            "patronymic": "",
+            "company": "Patterson PLC",
+            "work": "255268",
+            "mobile": "41502945233"
+        },
+        "90358f68-02ac-44e9-91ba-b13148a92685": {
+            "first_name": "Nathan",
+            "last_name": "Stewart",
+            "patronymic": "",
+            "company": "Maxwell-Walker",
+            "work": "206989",
+            "mobile": "17208782474"
+        },
+        "58ba5ecf-826f-4e6f-b2b9-7c8a591c2d35": {
+            "first_name": "William",
+            "last_name": "Phillips",
+            "patronymic": "",
+            "company": "Hardin and Sons",
+            "work": "755188",
+            "mobile": "+60378003963"
+        },
+        "305b25bd-4085-4efd-8dbf-0e19f96a4e0e": {
+            "first_name": "Robert",
+            "last_name": "Miller",
+            "patronymic": "",
+            "company": "Garcia, Velez and Klein",
+            "work": "80387896221",
+            "mobile": "53521842369"
+        },
+        "542ee0a9-dff9-469b-b5f1-d52464cdc9fb": {
+            "first_name": "Andrew",
+            "last_name": "Allen",
+            "patronymic": "",
+            "company": "Bowman Group",
+            "work": "592879",
+            "mobile": "49993459016"
+        },
+        "2c101c01-71cb-415c-a381-582759d1678a": {
+            "first_name": "Cynthia",
+            "last_name": "Delacruz",
+            "patronymic": "",
+            "company": "Blake-Harper",
+            "work": "814728",
+            "mobile": "28455452343"
+        },
+        "3ef21480-892e-460a-bdaa-92883d7625b4": {
+            "first_name": "Scott",
+            "last_name": "Ryan",
+            "patronymic": "",
+            "company": "Gallagher Group",
+            "work": "59697527368",
+            "mobile": "30257168268"
+        },
+        "edbb8bbc-aba3-4f6c-bcf6-b97fdacc4dec": {
+            "first_name": "Christopher",
+            "last_name": "Gonzalez",
+            "patronymic": "",
+            "company": "White, Gill and Koch",
+            "work": "505076",
+            "mobile": "+27312853896"
+        },
+        "eea46515-67a9-4b55-8bf1-beb61af43430": {
+            "first_name": "David",
+            "last_name": "Edwards",
+            "patronymic": "",
+            "company": "Haynes-Mcdaniel",
+            "work": "148529",
+            "mobile": "90112535285"
+        },
+        "b283de01-2818-460b-9cc0-6f5e6ed5e67b": {
+            "first_name": "Charles",
+            "last_name": "Kelley",
+            "patronymic": "",
+            "company": "Shaw-Barker",
+            "work": "40789955046",
+            "mobile": "04948297201"
+        },
+        "eae169ae-25fb-4c8c-82a4-0280ee1fa660": {
+            "first_name": "Brittney",
+            "last_name": "Wilson",
+            "patronymic": "",
+            "company": "Bartlett, Savage and Lam",
+            "work": "348130",
+            "mobile": "+06340836211"
+        },
+        "2822e371-d0d8-4de9-a830-6c1354535a8f": {
+            "first_name": "Dennis",
+            "last_name": "Reyes",
+            "patronymic": "",
+            "company": "Patterson-Cobb",
+            "work": "487922",
+            "mobile": "+44100092641"
+        },
+        "a8ab646f-9faa-468b-9a20-c50ee3990491": {
+            "first_name": "Joseph",
+            "last_name": "Evans",
+            "patronymic": "",
+            "company": "Clark-Lowe",
+            "work": "881310",
+            "mobile": "60059129516"
+        },
+        "0e330cfb-0ed8-42b1-84d7-0fba11152d2d": {
+            "first_name": "Crystal",
+            "last_name": "Thompson",
+            "patronymic": "",
+            "company": "Shannon-Gilbert",
+            "work": "16350029277",
+            "mobile": "+60385541748"
+        },
+        "1208bace-4acd-4736-91dd-f24787ce3d65": {
+            "first_name": "Christopher",
+            "last_name": "Patterson",
+            "patronymic": "",
+            "company": "White-Reed",
+            "work": "776931",
+            "mobile": "55846164052"
+        },
+        "3e761631-e1d5-449d-90d9-5949e5f366f3": {
+            "first_name": "Joshua",
+            "last_name": "Hale",
+            "patronymic": "",
+            "company": "Adams, Walker and Jones",
+            "work": "819730",
+            "mobile": "07801799689"
+        },
+        "fd6ff9c6-18fe-423c-80b0-3cb95230133c": {
+            "first_name": "John",
+            "last_name": "Mcintyre",
+            "patronymic": "",
+            "company": "Hernandez Inc",
+            "work": "648426",
+            "mobile": "+84797862687"
+        },
+        "17673d46-cada-497c-8fe1-24ae60328e49": {
+            "first_name": "Charles",
+            "last_name": "Farmer",
+            "patronymic": "",
+            "company": "Herrera-Stewart",
+            "work": "819246",
+            "mobile": "53188699645"
+        },
+        "66fa5af5-f862-402f-a175-dbc316938e68": {
+            "first_name": "Shannon",
+            "last_name": "Brown",
+            "patronymic": "",
+            "company": "Gregory-Herring",
+            "work": "52022892306",
+            "mobile": "97798701025"
+        },
+        "746b296c-51e2-437d-8cd6-dc5b1cbc29ac": {
+            "first_name": "Mary",
+            "last_name": "Vazquez",
+            "patronymic": "",
+            "company": "Berg, White and Hernandez",
+            "work": "217562",
+            "mobile": "69931304624"
+        },
+        "a9c742c3-62f9-4c3b-abaf-a282c14e1761": {
+            "first_name": "Michael",
+            "last_name": "Thompson",
+            "patronymic": "",
+            "company": "Scott-Lewis",
+            "work": "35965248812",
+            "mobile": "+39579089539"
+        },
+        "702d1b08-2208-4a71-91f3-ab61441d7bb1": {
+            "first_name": "Emily",
+            "last_name": "Faulkner",
+            "patronymic": "",
+            "company": "Mendez-Graves",
+            "work": "339947",
+            "mobile": "63271952518"
+        },
+        "b54dda53-e7f1-4742-82b9-33e6b5a2b0f8": {
+            "first_name": "Robert",
+            "last_name": "Woodward",
+            "patronymic": "",
+            "company": "White Inc",
+            "work": "87639193086",
+            "mobile": "98207797116"
+        },
+        "8d9ce5ab-0139-4989-bdfe-36accb6fdae4": {
+            "first_name": "Breanna",
+            "last_name": "Schmidt",
+            "patronymic": "",
+            "company": "Salazar, Barnett and Huber",
+            "work": "57070195116",
+            "mobile": "+86865568898"
+        },
+        "6ac2890b-2c07-405b-91ec-3323b682a680": {
+            "first_name": "Zachary",
+            "last_name": "Watkins",
+            "patronymic": "",
+            "company": "Thornton-Martin",
+            "work": "911104",
+            "mobile": "39527494253"
+        }
+    }
+}

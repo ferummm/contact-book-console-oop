@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "phone-book-app"
+version = "0.1.0"
+description = ""
+authors = ["Andreeva Polina <ferummm.it@gmail.com>"]
+readme = "README.md"
+packages = [{include = "phone_book_app"}]
+
+[tool.poetry.dependencies]
+python = "^3.11.4"
+faker = "^19.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
