@@ -24,59 +24,59 @@
 
 Пример содержимого консоли во время работы программы:
 
-Action menu: 
-q - quit 
-l - contact list 
-a - add new contact 
-r - remove a contact 
-e - edit a contact 
-s - search 
-
-Type command and press Enter 
-:l
-
-Contact List------------------------
-Page 1/25
-Contact card: 1
-Full name: Tammy Alexander 
-Company: Davis PLC
-Work: 101153
-Mobile: +00597972121
-
-Contact card: 2
-Full name: Megan Gordon 
-Company: Brown PLC
-Work: 71918904814
-Mobile: +75433780810
-
-Contact card: 3
-Full name: Matthew Mckinney 
-Company: Bennett, Brown and Matthews
-Work: 21832051824
-Mobile: +70640242427
-
-Contact card: 4
-Full name: Blake Hughes 
-Company: Simpson-Aguilar
-Work: 77079278744
-Mobile: 12661817643
-
-Navigation: 
-b - back 
-p - previous page 
-n - next page 
-
-Action menu: 
-q - quit 
-l - contact list 
-a - add new contact 
-r - remove a contact 
-e - edit a contact 
-s - search 
-
-Type command and press Enter 
-:s
-
+Action menu:\ 
+q - quit \
+l - contact list \
+a - add new contact \
+r - remove a contact \
+e - edit a contact \
+s - search \
+\
+Type command and press Enter \
+:l\
+\
+Contact List------------------------\
+Page 1/25\
+Contact card: 1\
+Full name: Tammy Alexander \
+Company: Davis PLC\
+Work: 101153\
+Mobile: +00597972121\
+\
+Contact card: 2\
+Full name: Megan Gordon \
+Company: Brown PLC\
+Work: 71918904814\
+Mobile: +75433780810\
+\
+Contact card: 3\
+Full name: Matthew Mckinney \
+Company: Bennett, Brown and Matthews\
+Work: 21832051824\
+Mobile: +70640242427\
+\
+Contact card: 4\
+Full name: Blake Hughes \
+Company: Simpson-Aguilar\
+Work: 77079278744\
+Mobile: 12661817643\
+\
+Navigation: \
+b - back \
+p - previous page \
+n - next page \
+\
+Action menu:\ 
+q - quit \
+l - contact list \
+a - add new contact\ 
+r - remove a contact \
+e - edit a contact\ 
+s - search \
+\
+Type command and press Enter \
+:s\
+\
 Search:-----------------------------\
 Press Enter to skip\
 Enter first name: \
@@ -85,39 +85,39 @@ Enter patronymic: \
 Enter company name: Brown\
 Enter work number: \
 Enter mobile number: +\
-
-Contact List------------------------
-Page 1/1
-Contact card: 1
-Full name: Megan Gordon 
-Company: Brown PLC
-Work: 71918904814
-Mobile: +75433780810
-
-Contact card: 2
-Full name: Matthew Mckinney 
-Company: Bennett, Brown and Matthews
-Work: 21832051824
-Mobile: +70640242427
-
-Contact card: 3
-Full name: Noah Martinez 
-Company: Shaw, Reed and Brown
-Work: 48006704239
-Mobile: +79043772426
-
-Navigation: 
-b - back 
-p - previous page 
-n - next page 
-
-Action menu: 
-q - quit 
-l - contact list 
-a - add new contact 
-r - remove a contact 
-e - edit a contact 
-s - search 
-
-Type command and press Enter 
-:s
+\
+Contact List------------------------\
+Page 1/1\
+Contact card: 1\
+Full name: Megan Gordon \
+Company: Brown PLC\
+Work: 71918904814\
+Mobile: +75433780810\
+\
+Contact card: 2\
+Full name: Matthew Mckinney \
+Company: Bennett, Brown and Matthews\
+Work: 21832051824\
+Mobile: +70640242427\
+\
+Contact card: 3\
+Full name: Noah Martinez \
+Company: Shaw, Reed and Brown\
+Work: 48006704239\
+Mobile: +79043772426\
+\
+Navigation: \
+b - back \
+p - previous page \
+n - next page \
+\
+Action menu:\ 
+q - quit \
+l - contact list \
+a - add new contact\ 
+r - remove a contact \
+e - edit a contact\ 
+s - search \
+\
+Type command and press Enter \
+:s\
