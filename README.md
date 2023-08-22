@@ -24,7 +24,7 @@
 
 Пример содержимого консоли во время работы программы:
 
-Action menu: \ 
+Action menu: \
 q - quit \
 l - contact list \
 a - add new contact \
@@ -66,12 +66,12 @@ b - back \
 p - previous page \
 n - next page \
 \
-Action menu: \ 
+Action menu: \
 q - quit \
 l - contact list \
-a - add new contact \ 
+a - add new contact \
 r - remove a contact \
-e - edit a contact \ 
+e - edit a contact \
 s - search \
 \
 Type command and press Enter \
@@ -82,9 +82,9 @@ Press Enter to skip\
 Enter first name: \
 Enter last name: \
 Enter patronymic: \
-Enter company name: Brown\
+Enter company name: Brown  \
 Enter work number: \
-Enter mobile number: +\
+Enter mobile number: + \
 \
 Contact List------------------------ \
 Page 1/1\
@@ -111,12 +111,12 @@ b - back \
 p - previous page \
 n - next page \
 \
-Action menu: \ 
+Action menu: \
 q - quit \
 l - contact list \
-a - add new contact \ 
+a - add new contact \
 r - remove a contact \
-e - edit a contact \ 
+e - edit a contact \
 s - search \
 \
 Type command and press Enter \
