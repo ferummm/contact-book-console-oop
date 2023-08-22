@@ -77,14 +77,14 @@ s - search
 Type command and press Enter 
 :s
 
-Search:-----------------------------
-Press Enter to skip
-Enter first name: 
-Enter last name: 
-Enter patronymic: 
-Enter company name: Brown
-Enter work number: 
-Enter mobile number: +
+Search:-----------------------------\
+Press Enter to skip\
+Enter first name: \
+Enter last name: \
+Enter patronymic: \
+Enter company name: Brown\
+Enter work number: \
+Enter mobile number: +\
 
 Contact List------------------------
 Page 1/1
